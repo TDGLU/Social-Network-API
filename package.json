@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TDGNate/Social-Network-API.git"
+    "url": "git+https://github.com/TDGLU/Social-Network-API.git"
   },
   "author": "Nate",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TDGNate/Social-Network-API/issues"
+    "url": "https://github.com/TDGLU/Social-Network-API/issues"
   },
-  "homepage": "https://github.com/TDGNate/Social-Network-API#readme",
+  "homepage": "https://github.com/TDGLU/Social-Network-API/blob/main/README.md",
   "dependencies": {
     "express": "^4.18.1",
     "mongoose": "^6.6.1"
